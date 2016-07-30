@@ -2,18 +2,12 @@ Supervised Hashing with Kernels [Code]
 --
 **Terms of Use**
 
-Copyright (c) 2012 by
-
-DVMM Laboratory
+Copyright (c) 2012 by DVMM Laboratory
 
 Department of Electrical Engineering
-
 Columbia University
-
 Rm 1312 S.W. Mudd, 500 West 120th Street
-
 New York, NY 10027
-
 USA
 
 If it is your intention to use this code for non-commercial purposes, such as in academic research, this code is free.
